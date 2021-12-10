@@ -1,0 +1,62 @@
+.heading-content {
+    h3 {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 60px;
+        font-weight: lighter;
+        position: absolute;
+        top: 30%;
+        margin-left: 0.3em;
+        line-height: 1.2em;
+        text-transform: uppercase;
+        color: $neutral-white;
+        border: 2px solid;
+        padding: 40px;
+        padding-right: 3em;
+    }
+}
+
+#section2 {
+    h3 {
+        font-family: 'Josefin Sans', sans-serif;
+        text-transform: uppercase;
+        font-weight: lighter;
+        color: $black;
+        font-size: 46px;
+    }
+
+    p {
+        font-family: 'Alata', sans-serif;
+        font-weight: lighter;
+        color: $black;
+        line-height: 1.5em;
+        font-size: 84%;
+    }
+}
+
+#section3  {
+    h2 {
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: lighter;
+        text-transform: uppercase;
+        color: $black;
+        font-size: 30px;
+    }
+
+    button {
+        font-family: 'Alata', sans-serif;
+        font-size: 13px;
+        text-transform: uppercase;
+        width: 8em;
+        letter-spacing: 2px;
+    }
+
+    span {
+        font-family: 'Josefin Sans', sans-serif;
+        text-transform: uppercase;
+        color: $neutral-white;
+        font-size: 24px;
+        position: relative;
+        top: 16em;
+        left: 2em;
+    }
+}

@@ -1,0 +1,33 @@
+#mainNav {
+    display: flex;
+    width: 90%;
+    margin: 1% 5%;
+    position: absolute;
+    justify-content: space-between;
+
+    h1 {
+        font-family: 'Alata';
+        font-size: 40px;
+        font-weight: 400;
+        color: $neutral-white;
+        margin: 1em;
+    }
+
+    #nav-h {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 1em;
+    }
+
+    .navLinks {
+        font-family: 'Alata';
+        font-size: 14px;
+        font-weight: 300;
+        color: $neutral-white;
+        margin: 1em;
+        cursor: pointer;
+        text-decoration: none;
+    }
+}
+

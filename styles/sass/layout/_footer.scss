@@ -1,0 +1,51 @@
+footer {
+    width: 100%;
+    background-color: $black;
+    display: flex;
+    margin: 0%;
+    padding-bottom: 2em;
+    justify-content: space-between;
+
+    h1 {
+        font-family: 'Alata';
+        font-size: 30px;
+        color: $neutral-white;
+        margin: 1em;
+        margin-left: 4em;
+    }
+
+    #footerNav {
+        margin: 1em;
+        margin-left: 7em;
+    }
+
+    .sm-links {
+        color: $neutral-white;
+        margin: 1.5em;
+        margin-left: 26%;
+    }
+    
+    h3 {
+        color: $darker-gray;
+        font-size: 14px;
+        margin: 1em;
+        margin-right: 5em;
+    }
+    
+    
+    a {
+        color: $neutral-white;
+        font-family: 'Alata';
+        font-size: 14px;
+        text-decoration: none;
+        font-weight: 300;
+        color: $neutral-white;
+        margin: 1em;
+        cursor: pointer;
+    }
+
+    #nav-f2 {
+        margin-right: 1em;
+    }
+}
+

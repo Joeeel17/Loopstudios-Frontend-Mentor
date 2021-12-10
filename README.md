@@ -21,4 +21,4 @@ This challenge focuses mostly on HTML & CSS. There's a tiny bit of JS included f
 ![header](/results/header.JPG)&nbsp;
 ![section2](/results/section2.JPG)&nbsp;
 ![testimonials](/results/section3.JPG)&nbsp;
-![footer](/results/footer.JPG)&nbsp
+![footer](/results/footer.JPG)
